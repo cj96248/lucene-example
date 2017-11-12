@@ -1,4 +1,4 @@
-package com.training.lucene;
+package com.training.project.lucene;
 
 /**
  * Hello world!
